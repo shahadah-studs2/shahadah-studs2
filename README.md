@@ -1,7 +1,7 @@
 # Bismillah StudioZ
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C896&center=true&vCenter=true&width=700&height=70&lines=Bismillah+StudioZ;Creative+digital+studio;Building+smart%2C+beautiful+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C896&center=true&vCenter=true&width=700&height=70&lines=Bismillah+StudioZ;Creative+digital+studio;Building+smart%2C+beautiful+solutions%2C+Love+coding+and+helping+on+Frontend+stuff" alt="Typing SVG" />
 </p>
 
 <p align="center">
