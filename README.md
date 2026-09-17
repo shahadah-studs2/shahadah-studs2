@@ -11,7 +11,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-Available-00C896?style=for-the-badge" alt="Portfolio" />
   </a>
-  <a href="#">
+  <a href="https://shahadah-studs2.github.io/Official-Web/">
     <img src="https://img.shields.io/badge/Contact-Open-FF6B6B?style=for-the-badge" alt="Contact" />
   </a>
 </p>
